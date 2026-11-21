@@ -1,9 +1,7 @@
-# RASUTH GOWDA — Weekly Cybersecurity Projects
+# RASUTH GOWDA - Weekly Cryptography and Data Protection Projects
 
 **Name:** Rasuth Gowda  
 **USN:** 23BCAR0050
-
-This repository contains the three projects assigned in the Student Project Tracking sheet.
 
 ## Projects
 
